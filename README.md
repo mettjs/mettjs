@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mettjs
-- 👀 I’m interested in .NET CORE, HTML/TS/CSS, Java and Python
+- 👀 I’m interested in .NET, HTML/JSTS/CSS, Java and Python
 - 🌱 I’m currently learning Typescript and .NET
 - 📫 How to reach me michaelramireza26@gmail.com
 
