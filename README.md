@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mettjs
-- 👀 I’m interested in .NET, HTML/JSTS/CSS, Java and Python
-- 🌱 I’m currently learning Typescript and .NET
+- 👀 I’m interested in MSSQL, Postgres, Golang and Python
 - 📫 How to reach me michaelramireza26@gmail.com
 
 <!---
